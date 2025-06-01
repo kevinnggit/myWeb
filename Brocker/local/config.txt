@@ -1,0 +1,10 @@
+user=myuser
+webapp=docker-myuser-java
+manager=docker-myuser-manager
+dbserver=localhost
+dbuser=myuser
+dbname=myuser_db
+dbpassword=mypass
+redisserver=localhost
+redispassword=mypass
+baseurl=http://localhost:8080
